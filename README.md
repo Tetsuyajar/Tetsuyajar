@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Hey, I am Tetsuya and a really bad programmer so dont expect to much</h3>
+<h2 align="left">Hey, I am Tetsuya and a really bad programmer so dont expect to much</h2>
 
 ###
 
