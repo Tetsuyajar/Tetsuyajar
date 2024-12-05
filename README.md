@@ -10,40 +10,6 @@
 
 <h2 align="left">I masted:</h2>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35" alt="aftereffects logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-</div>
-
-###
-
-<h2 align="left">Currently learning:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="arduino logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-</div>
-
-<hr>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=schatzsuche.schatzsuche&"  />
-</div>
-
-###
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
